@@ -41,7 +41,7 @@
 #   define PATH_TO_SRC_DIRECTORY "./"
 #endif
 #ifndef PATH_TO_ASSET_DIRECTORY
-#   define PATH_TO_ASSSET_DIRECTORY "../assets/"
+#   define PATH_TO_ASSET_DIRECTORY "../assets/"
 #endif
 
 //Forces use of ad-hoc instanced geometry definition, with better vertex reuse
